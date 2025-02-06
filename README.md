@@ -17,3 +17,10 @@ git clone https://github.com/DocteurMoriarty/iso-tools.git
 cd iso-tools  
 chmod +x iso-extract.sh  
 chmod +x iso-rebuild.sh  
+```
+## Utilisation
+```bash
+./iso-extract.sh mon_image.iso  
+./iso-rebuild.sh mon_image.iso.extract mon_image_modifiee.iso  
+
+```
