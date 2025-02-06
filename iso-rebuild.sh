@@ -1,7 +1,7 @@
 #! /bin/bash
 
 
-# Décompilateur d'ISO debian avec les verifications 
+# Compilateur d'ISO debian avec les verifications 
 # Script largement inspiré du script présent sur le forum Debian
 # https://forum-debian.fr/wiki/Modification_d_iso
 # Fork by Docteur
